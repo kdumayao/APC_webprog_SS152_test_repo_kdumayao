@@ -1,1 +1,2 @@
 Hello, this is the repository of Katrina Umayao.
+Completed my first commit.
