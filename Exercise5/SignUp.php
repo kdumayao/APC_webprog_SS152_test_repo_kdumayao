@@ -14,7 +14,7 @@ if(isset($_POST['btn-save']))
         $sql_query = "INSERT INTO users(first_name,last_name,user_city) VALUES('$first_name','$last_name','$city_name')";
  mysqli_query($sql_query);
 }
- ?>
+?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
