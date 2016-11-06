@@ -3,7 +3,7 @@ include_once 'dbconfig.php';
 if(isset($_GET['edit_id']))
 {
  $sqli_query="SELECT * FROM users WHERE user_id=".$_GET['edit_id'];
- $result_set=mysqli_query($con, $sql_query);
+ $result_set=mysqli_query($sql_query);
  $fetched_row=mysqli_fetch_array($result_set);
 }
 if(isset($_POST['btn-update']))
