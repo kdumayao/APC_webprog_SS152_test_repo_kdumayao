@@ -55,7 +55,7 @@ if(isset($_POST['btn-cancel']))
 
 <div id="header">
  <div id="content">
-    <label>CRUD Operations With PHP and MySql - By Cleartuts</label>
+    <label>CRUD</label>
     </div>
 </div>
 
