@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "dbtuts";
-mysqli_connect($host,$user,$password);
-mysqli_select_db ($database);
+$datbase = "dbtuts";
+$con = mysqli_connect($host,$user,$password);
+mysqli_select_db($con,$datbase);
 ?>

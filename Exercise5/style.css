@@ -35,7 +35,7 @@ table
  width:80%;
  font-family:Tahoma, Geneva, sans-serif;
  font-weight:bolder;
- color:#999;
+ color:;
  margin-bottom:80px;
 }
 table a
@@ -71,7 +71,7 @@ table td button
  outline:none;
  background:#00a2d1;
  padding:9px 15px 9px 15px;
- color:#f9f9f9;
+ color:#FAAFBA;
  font-family:Arial, Helvetica, sans-serif;
  font-weight:bolder;
  border-radius:3px;
